@@ -4,4 +4,4 @@ title: Bienvenue
 permalink: /
 ---
 
-Ceci est ma page d'accueil !
+EH EH Ceci est ma page d'accueil !
