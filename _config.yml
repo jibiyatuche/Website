@@ -4,6 +4,7 @@ baseurl: "/Website"
 url: "https://jibiyatuche.github.io"
 
 theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
 
 plugins:
   - jekyll-include-cache
