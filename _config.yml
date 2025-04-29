@@ -1,6 +1,6 @@
-title: Mon Site Minimal Mistakes
-description: Un site super stylé avec GitHub Actions
-baseurl: "/Website" # À modifier si ton site est dans un sous-dossier
+title: jibiyatuche
+description: Si tu aimes le hacking :)
+baseurl: "/Website" 
 url: "https://jibiyatuche.github.io"
 
 theme: minimal-mistakes-jekyll
